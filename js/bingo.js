@@ -9,7 +9,7 @@ function generarNumerosBingo(cantidad, maximo) {
     let numeros = new Set();
 
     while (numeros.size < cantidad) {
-        let numeroAleatorio = Math.floor(Math.random() * maximo) + 1;
+        let numeroAleatorio = Math.floor(Math.random() * maximo);
         numeros.add(numeroAleatorio);
     }
     return Array.from(numeros);
