@@ -6,7 +6,6 @@
     color: rgb(112, 10, 208);
     font-size: 20px;
 }
-
 table {
     margin: auto;
     color: aliceblue;
@@ -17,41 +16,38 @@ td {
     font-size: 20px;
 }
 .fondo{
-    background-color: rgb(119, 52, 207);
+    background-color: rgb(57, 141, 186);
 }
+
+
 .filaB {
-    text-decoration: underline #8b26c6;
-    background-color: rgb(162, 146, 232);
+    background-color: rgb(108, 210, 151);
     color: black;
     border-radius: 100px;
 }
 .filaI {
-    text-decoration: underline #8b26c6;
-    background-color: rgb(213, 232, 146);
+    background-color: rgb(11, 88, 220);
     color: black;
     border-radius: 100px;
 }
 .filaN {
-    text-decoration: underline #8b26c6;
-    background-color: rgb(98, 214, 206);
+    background-color: rgb(184, 65, 198);
     color: black;
     border-radius: 100px;
 }
 .filaG {
-    text-decoration: underline #8b26c6;
-    background-color: rgb(102, 223, 108);
+    background-color: rgb(213, 76, 158);
     color: black;
     border-radius: 100px;
 }
 .filaO {
-    text-decoration: underline #8b26c6;
-    background-color: rgb(223, 120, 189);
+    background-color: rgb(198, 182, 103);
     color: black;
     border-radius: 100px;
 }
+
 .x {
-    text-decoration: underline #8b26c6;
-    background-color: rgb(196, 173, 238);
-    color: black;
+    background-color: rgb(19, 45, 175);
+    color: rgb(255, 255, 255);
     border-radius: 100px;
 }
